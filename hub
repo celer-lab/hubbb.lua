@@ -54,8 +54,3 @@ local Section = Tab:NewSection("lumber tycoon 2")
 Section:NewButton("Button", "Button", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.7"))()
 end)
-local Tab = Window:NewTab("club roblox")
-local Section = Tab:NewSection("club roblox")
-Section:NewButton("club roblox", "club roblox", function()
-    coming soon
-end)
