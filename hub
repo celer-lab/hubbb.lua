@@ -57,5 +57,5 @@ end)
 local Tab = Window:NewTab("club roblox")
 local Section = Tab:NewSection("club roblox")
 Section:NewButton("club roblox", "club roblox", function()
-    в разработке
+    coming soon
 end)
